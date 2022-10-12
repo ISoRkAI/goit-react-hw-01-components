@@ -23,8 +23,3 @@ export const App = () => {
     </div>
   );
 };
-// export const Statistic = () => {
-//   return
-// };
-// export const Friend = () => {};
-// export const Transaction = () => {};
